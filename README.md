@@ -1,6 +1,7 @@
 
 # 🧠 Sistem Pakar Diagnosa Penyakit - Forward Chaining & Backward Chaining
 2306141_Rabiul Tsani Ghifarulhaq A
+
 Sistem ini merupakan **implementasi sederhana dari sistem pakar berbasis aturan (rule-based expert system)** menggunakan dua metode inferensi: **Forward Chaining** dan **Backward Chaining**, untuk membantu mendiagnosa beberapa penyakit umum berdasarkan gejala yang dialami oleh pengguna. Sistem dikembangkan dengan bantuan pustaka [Experta](https://github.com/noxdafox/experta).
 
 > ⚠️ **Disclaimer:** Sistem ini dibuat hanya untuk keperluan edukasi dan tidak dimaksudkan untuk menggantikan diagnosis medis profesional. Selalu konsultasikan dengan tenaga medis untuk diagnosa yang akurat.
